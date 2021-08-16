@@ -2,5 +2,6 @@ hello world
 
 print
 
+print2
 
 export
