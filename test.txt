@@ -3,5 +3,6 @@ hello world
 print
 
 print2
+print3
 
 export
